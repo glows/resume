@@ -1,4 +1,29 @@
-## 个人简历  
+| hugo.vieilledent@gmail.com  | +4915731460179 |
+| Mainzer Strasse 12053       |         Berlin |
+| [[https://hugovieilledent.com]] |                |
+| [[https://github.com/hugurp]]   |                |
+
+Thinking and developing honest tools, services and products is what I
+enjoy. As a front-end developer I put emphasis upon user experiences
+and cross platform usages, whereas a product developer I focus on
+building self-explaining easy to use yet powerful tools. My goal is to
+always discover more to understand and explain.
+
+| javascript frontend | react, ember, jquery                       |
+| javascript server   | node.js, express.js, micro.js              |
+| other languages     | shell                                      |
+| css                 | object orientated css3 (oocss), sass, less |
+|                     | suit css naming convention                 |
+| markup languages    | html5, jsx, handlebars, jade, haml         |
+| tools               | make, git, npm, browserify, bower          |
+|                     | grunt, gulp, yeoman, emacs                 |
+| databases           | firebase (db, auth, rules)                 |
+| cms                 | drupal, wordpress, tumblr                  |
+| softwares           | sketch, photoshop, indesign, gimp, blender |
+| os                  | linux (arch, ubuntu), osx                  |
+
+---
+## 个人简历  
 ---
 ### 罗东川  
 男 | 23岁1994年10月 1日| 籍贯广东   

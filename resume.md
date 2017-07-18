@@ -1,38 +1,19 @@
-#+TITLE: resume
-#+AUTHOR: duncyun law
-#+KEYWORDS: CV, resume, vita
-#+OPTIONS: toc:nil num:nil 
 
-name | age
+
+
 ---- | ---
-|  javascript frontend | react, ember, jquery                       |  
-|  javascript server   | node.js, express.js, micro.js              |
-|  other languages     | shell                                      |
+|  javascript frontend | vue, jquery                                |  
+|  javascript server   | node.js               |
+|  other languages     | python                                      |
 |  css                 | object orientated css3 (oocss), sass, less |
 |                      | suit css naming convention                 |
-|  markup languages    | html5, jsx, handlebars, jade, haml         |
+|  markup languages    | html5, markdown                      |
 |  tools               | make, git, npm, browserify, bower          |
-|                     | grunt, gulp, yeoman, emacs                 |
+|                     | gulp, vim                 |
 | databases           | firebase (db, auth, rules)                 |
 | cms                 | drupal, wordpress, tumblr                  |
-| softwares           | sketch, photoshop, indesign, gimp, blender |
+| softwares           | photoshop, indesign |
 | os                  | linux (arch, ubuntu), osx                  |
-
-name | age
----- | ---
-| hugo.vieilledent@gmail.com      | +4915731460179 |
-| Mainzer Strasse 12053           |         Berlin |
-| [[https://hugovieilledent.com]] |                |
-| [[https://github.com/hugurp]]   |                |
-
-Thinking and developing honest tools, services and products is what I
-enjoy. As a front-end developer I put emphasis upon user experiences
-and cross platform usages, whereas a product developer I focus on
-building self-explaining easy to use yet powerful tools. My goal is to
-always discover more to understand and explain.
-
-
-
 
 -------
 

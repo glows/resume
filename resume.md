@@ -70,17 +70,3 @@
 
 
 
-name | tools
----- | ---
-|  javascript frontend | vue, jquery                                |  
-|  javascript server   | node.js               |
-|  other languages     | python                                      |
-|  css                 | object orientated css3 (oocss), sass, less |
-|                      | suit css naming convention                 |
-|  markup languages    | html5, markdown                      |
-|  tools               | make, git, npm, browserify, bower          |
-|                     | gulp, vim                 |
-| databases           | firebase (db, auth, rules)                 |
-| cms                 | drupal, wordpress, tumblr                  |
-| softwares           | photoshop, indesign |
-| os                  | Linux (arch, ubuntu), MacOS                  |

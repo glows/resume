@@ -1,19 +1,5 @@
 
 
-name | tools
----- | ---
-|  javascript frontend | vue, jquery                                |  
-|  javascript server   | node.js               |
-|  other languages     | python                                      |
-|  css                 | object orientated css3 (oocss), sass, less |
-|                      | suit css naming convention                 |
-|  markup languages    | html5, markdown                      |
-|  tools               | make, git, npm, browserify, bower          |
-|                     | gulp, vim                 |
-| databases           | firebase (db, auth, rules)                 |
-| cms                 | drupal, wordpress, tumblr                  |
-| softwares           | photoshop, indesign |
-| os                  | linux (arch, ubuntu), osx                  |
 
 -------
 
@@ -70,4 +56,23 @@ name | tools
 学习意识较强特别对计算机方面的研究保持有一定的能量和激情。  
 自学能力强有良好的团队合作意识。  
 有较好的沟通能力喜欢与不同类型的人进行交流沟通。  
-对待新的事物有强烈的好奇心。  
+对待新的事物有强烈的好奇心。
+
+## 理想的工作
+实践终生学习，在工作中不断尝鲜迭代最新有趣的技术栈，解决有挑战性的技术难点，更加深入学习大前端、全栈知识，补充对node、数据库和nuxt服务器端渲染等的学习与实践。 
+激发自己的产品意识，体验从产品点到技术实践的过程。
+
+name | tools
+---- | ---
+|  javascript frontend | vue, jquery                                |  
+|  javascript server   | node.js               |
+|  other languages     | python                                      |
+|  css                 | object orientated css3 (oocss), sass, less |
+|                      | suit css naming convention                 |
+|  markup languages    | html5, markdown                      |
+|  tools               | make, git, npm, browserify, bower          |
+|                     | gulp, vim                 |
+| databases           | firebase (db, auth, rules)                 |
+| cms                 | drupal, wordpress, tumblr                  |
+| softwares           | photoshop, indesign |
+| os                  | linux (arch, ubuntu), osx                  |

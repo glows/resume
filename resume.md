@@ -18,9 +18,10 @@ name | age
 | softwares           | sketch, photoshop, indesign, gimp, blender |
 | os                  | linux (arch, ubuntu), osx                  |
 
-
-| hugo.vieilledent@gmail.com  | +4915731460179 |
-| Mainzer Strasse 12053       |         Berlin |
+name | age
+---- | ---
+| hugo.vieilledent@gmail.com      | +4915731460179 |
+| Mainzer Strasse 12053           |         Berlin |
 | [[https://hugovieilledent.com]] |                |
 | [[https://github.com/hugurp]]   |                |
 

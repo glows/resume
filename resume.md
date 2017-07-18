@@ -9,7 +9,7 @@
 #### 男 | 1994年10月 | 籍贯:广东   
 #### 手机:15123159430     E-mail:  lawmusil@163.com  
 ---
-##  工作经历
+###  工作经历
 
 ### 培训经历
 + 2014/7-2014/8   网上商城   
@@ -61,6 +61,13 @@
 ### 理想的工作
 实践终生学习，在工作中不断尝鲜迭代最新有趣的技术栈，解决有挑战性的技术难点，更加深入学习大前端、全栈知识，补充对node、数据库和nuxt服务器端渲染等的学习与实践。 
 激发自己的产品意识，体验从产品点到技术实践的过程。
+
+前端：Vue.js、JavaScript(ES6、ES5)、HTML/HTML5、CSS/CSS3、Stylus、SASS(SCSS)、微信⼩程序、jQuery、Ajax/fetch
+后端：Node.js (Express.js)
+数据库：MongoDB、MySQL
+⾃动化构建：Webpack、Gulp
+版本管理：Git
+其他：了解数据结构、http、性能优化、英语文档阅读能力
 
 name | tools
 ---- | ---

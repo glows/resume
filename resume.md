@@ -3,18 +3,8 @@
 #+KEYWORDS: CV, resume, vita
 #+OPTIONS: toc:nil num:nil 
 
-
-| hugo.vieilledent@gmail.com  | +4915731460179 |
-| Mainzer Strasse 12053       |         Berlin |
-| [[https://hugovieilledent.com]] |                |
-| [[https://github.com/hugurp]]   |                |
-
-Thinking and developing honest tools, services and products is what I
-enjoy. As a front-end developer I put emphasis upon user experiences
-and cross platform usages, whereas a product developer I focus on
-building self-explaining easy to use yet powerful tools. My goal is to
-always discover more to understand and explain.
-
+name | age
+---- | ---
 |  javascript frontend | react, ember, jquery                       |  
 |  javascript server   | node.js, express.js, micro.js              |
 |  other languages     | shell                                      |
@@ -27,6 +17,20 @@ always discover more to understand and explain.
 | cms                 | drupal, wordpress, tumblr                  |
 | softwares           | sketch, photoshop, indesign, gimp, blender |
 | os                  | linux (arch, ubuntu), osx                  |
+
+
+| hugo.vieilledent@gmail.com  | +4915731460179 |
+| Mainzer Strasse 12053       |         Berlin |
+| [[https://hugovieilledent.com]] |                |
+| [[https://github.com/hugurp]]   |                |
+
+Thinking and developing honest tools, services and products is what I
+enjoy. As a front-end developer I put emphasis upon user experiences
+and cross platform usages, whereas a product developer I focus on
+building self-explaining easy to use yet powerful tools. My goal is to
+always discover more to understand and explain.
+
+
 
 
 -------

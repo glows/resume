@@ -1,6 +1,6 @@
 
 
-
+name | age
 ---- | ---
 |  javascript frontend | vue, jquery                                |  
 |  javascript server   | node.js               |

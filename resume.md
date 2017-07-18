@@ -26,7 +26,12 @@
 责任描述部分功能的增删改查 
 
 ### 技能/语言
-熟悉HTML、CSS、JavaScript等技术熟悉运用Bootstrap等开源框架  
+技术栈：Vue。js + html + css +  js + nodejs 
+前端：Vue.js、JavaScript(ES6、ES5)、HTML/HTML5、CSS/CSS3、Stylus、SASS(SCSS)、微信小程序、jQuery、Ajax/fetch  
+后端：Node.js (Express.js)  
+数据库：MySQL、SqlLite  
+自动化构建：Webpack、Gulp  
+版本管理：Git   
 熟悉网络安全、服务器、存储、数据库    
 熟悉Python等语言熟悉Flask等框架。  
 熟练使用Linux系统熟悉常用命令  
@@ -35,16 +40,16 @@
 
 ### 项目经验
 + 2015/1-2015/3	路由VPN
-+ 软件环境Openwrt PandoraBox   硬件环境小米路由器
-      + 项目简介实现局域网内设备走代理通道实现NAS远程监控
+软件环境Openwrt PandoraBox   硬件环境小米路由器  
+项目简介实现局域网内设备走代理通道实现NAS远程监控  
 责任描述负责全程工作寻找资料编码调试
 + 2015/2-2015/6	开发安卓记事本应用
-软件环境Win7 硬件环境笔记本   开发工具Android Studio
-项目简介用Java语言开发一个简单的笔记本应用用到Android sdk 和 sqlite数据库
-责任描述负责搭配开发环境用java语言编写代码设计手机端UI
-+ 2016/7 -- 2017/1   机房运维
-网络设备日常运行维护安装系统网络性能监测和优化搭建FTP服务器搭建VPN
-+ 2017/2 -- 2017/7 
+软件环境Win7 硬件环境笔记本   开发工具Android Studio  
+项目简介用Java语言开发一个简单的笔记本应用用到Android sdk 和 sqlite数据库  
+责任描述负责搭配开发环境用java语言编写代码设计手机端UI    
+机房运维  
+网络设备日常运行维护安装系统网络性能监测和优化搭建FTP服务器搭建VPN  
+
 ---
 ### 个人兴趣爱好
 1.爱好网络技术 2.篮球  3.游泳  4.羽毛球 5.乒乓球  
@@ -63,11 +68,7 @@
 实践终生学习，在工作中不断尝鲜迭代最新有趣的技术栈，解决有挑战性的技术难点，更加深入学习大前端、全栈知识，补充对node、数据库和nuxt服务器端渲染等的学习与实践。 
 激发自己的产品意识，体验从产品点到技术实践的过程。
 
-前端：Vue.js、JavaScript(ES6、ES5)、HTML/HTML5、CSS/CSS3、Stylus、SASS(SCSS)、微信小程序、jQuery、Ajax/fetch  
-后端：Node.js (Express.js)  
-数据库：MongoDB、MySQL  
-自动化构建：Webpack、Gulp  
-版本管理：Git  
+
 
 name | tools
 ---- | ---
